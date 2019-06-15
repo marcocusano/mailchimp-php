@@ -41,4 +41,4 @@ Everything you need to know about the library, such as Classes and "How To Use",
 
 ## Change Log
 #### v0.1 (2019/06/15)
-- First release of mailchimp-php lib
+- First and **beta** release of **mailchimp-php** lib
