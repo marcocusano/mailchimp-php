@@ -53,7 +53,7 @@
             }
         }
 
-        function unplublish($page_id) {
+        function unpublish($page_id) {
             if ($page_id) {
                 return $mailchimp->requests->POST($mailchimp->keys["api"]["landing-pages"] . "/$page_id/actions/unpublish");
             } else {
